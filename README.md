@@ -1,1 +1,1 @@
-# Plugable-microscope-stand
+217mm tall stand for Plugable microscope (or anything else that has 1/4-20 UNC threads). I made this to mount the microscope on my reloading bench for easy inspection of powder charges on the Lee Six Pack Pro press.
